@@ -89,4 +89,7 @@ git pull --allow-unrelated-histories origin master
 this error occurs when projects don't have any common ancestor.
 
 
+//如果先在github建了仓库
+
+本地就clone下来，不要在init一个新的了
 
